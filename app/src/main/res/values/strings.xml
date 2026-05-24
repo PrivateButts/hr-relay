@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HR Relay</string>
+    <string name="channel_name">Heart Rate Relay</string>
+    <string name="channel_desc">Relaying heart rate to server</string>
+    <string name="service_notification_text">Relaying heart rate to server</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="settings">Settings</string>
+    <string name="server_url">Server URL</string>
+    <string name="current_hr">--</string>
+</resources>
